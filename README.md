@@ -1,4 +1,4 @@
-# LogRocket Tutorial of a CRUD with gRPC and Node
+# gRPC and Node CRUD
 
 This project is separated in two parts:
 - Server: where gRPC serves the remote calls defined in the proto file
